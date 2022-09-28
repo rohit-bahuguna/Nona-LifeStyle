@@ -13,7 +13,7 @@ const Card = () => {
 	return (
 		<div className="container">
 			<div className="main">
-				<h3>Your Toatal Spand</h3>
+				<h3>Your Total Spand</h3>
 
 				<select name="select" className="select">
 					<option value="">This Month</option>
